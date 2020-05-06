@@ -1,1 +1,1 @@
-mvn spring-boot:run -D"aftersales.config.docroot"="C:\Users\venu.esampalli\git\qa_po_microservices\config\src\main\resources\applications" -DCONFIG_REPO="C:\Users\venu.esampalli\Desktop\Configurations" -D"spring.profiles.active"=local -D"aftersales.clone"=1 -D"aftersales.log"="C:\Users\venu.esampalli\Desktop\Logs_po" -D"server.port"=8085
+first commit git
